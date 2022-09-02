@@ -516,6 +516,7 @@ PRODUCT_DEFAULT_PROPERTY_OVERRIDES += \
     ro.surface_flinger.vsync_sf_event_phase_offset_ns=1000000
     ro.surface_flinger.wcg_composition_dataspace=143261696 \
     ro.surface_flinger.use_content_detection_for_refresh_rate=true
+    ro.surface_flinger.wcg_composition_dataspace=143261696
 
 PRODUCT_DEFAULT_PROPERTY_OVERRIDES += \
     debug.sf.use_phase_offsets_as_durations=1 \
